@@ -36,7 +36,7 @@ sync, *rtree* and *rbush*
        
 *async-rtree*
 
-![boston and quincy](http://i.imgur.com/ck5F7Az.png) D'OH
+![boston and quincy](doh.jpg) D'OH
 
 *bbox-test*
 
