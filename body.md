@@ -42,4 +42,8 @@ sync, *rtree* and *rbush*
 
 *level-tree*
 
+next steps
+
+*geopouch*
+
 https://github.com/calvinmetcalf/jsgeo
