@@ -40,6 +40,8 @@ sync, *rtree* and *rbush*
 
 *bbox-test*
 
+![hits](hits.png)
+
 *level-tree*
 
 next steps

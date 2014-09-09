@@ -25,5 +25,6 @@ or when postgres is too much
     - [async-rtree](https://github.com/calvinmetcalf/async-rtree)
         - [d'oh](https://gist.github.com/calvinmetcalf/cb5a1ee7f93d4430c3fb)
     - [bbox-test](https://github.com/calvinmetcalf/bbox-test)
+        - [hits](https://gist.github.com/calvinmetcalf/d94c2fdf7f72eff7967a)
     - [level-tree](https://github.com/calvinmetcalf/level-tree)
     - [geopouch](https://github.com/pouchdb/geopouch/issues/6)
