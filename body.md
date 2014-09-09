@@ -1,35 +1,45 @@
-use &harr; to navigate
+https://github.com/calvinmetcalf/jsgeo
 
-Medium
+*PouchDB* and *SQLDown*
 
-_Presentation software_ for lazy messy hackers
+or
 
-text
+when *postgres* is too much
 
-from markdown
+Levelup
 
-as _medium_ as it can be
+you can build stuff with it
 
-no config
+Indexed DB in Chrome
 
-_1.5k_
+PouchDB
 
-plus like _50k_ more for Markdown conversion, CSS, and other stuff
+Dat
 
-![](http://farm9.staticflickr.com/8527/8680357801_712bc7e350_o.png) images too
+backends besides leveldown (leveldb)
 
-* also
-* lists
-* as well
+sqldown
 
-```javascript
-var code = true;
-```
+level.js
 
-based off [big by @tmcw](https://github.com/tmcw/big)
+*GEOSTUFF*
+ 
+mark1 geo: *geohash*
 
-markdown by [marked](https://github.com/chjj/marked)
+quad-tree no hilbert curves
 
-Syntax highlighting by [Highlight.js](http://softwaremaniacs.org/soft/highlight/en/)
+non(9) tree with hilbert(ish) curve
 
-JS+CSS [github.com/ calvinmetcalf/ medium](https://github.com/calvinmetcalf/medium)
+mark2 geo: *rtree*
+
+sync, *rtree* and *rbush*
+       
+*async-rtree*
+
+![boston and quincy](http://i.imgur.com/ck5F7Az.png) D'OH
+
+*bbox-test*
+
+*level-tree*
+
+https://github.com/calvinmetcalf/jsgeo
