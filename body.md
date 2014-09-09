@@ -6,7 +6,7 @@ or
 
 when *postgres* is too much
 
-Levelup
+*Levelup*
 
 you can build stuff with it
 
