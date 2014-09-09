@@ -10,19 +10,19 @@ Levelup
 
 you can build stuff with it
 
-Indexed DB in Chrome
+*Indexed DB* in Chrome
 
-PouchDB
+*PouchDB*
 
-Dat
+*Dat*
 
-backends besides leveldown (leveldb)
+backends besides *leveldown* (*leveldb*)
 
-sqldown
+*sqldown*
 
-level.js
+*level.js*
 
-*GEOSTUFF*
+GEOSTUFF
  
 mark1 geo: *geohash*
 
